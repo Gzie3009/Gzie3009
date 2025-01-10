@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Open source projectss**
 
-- 👨‍💻 All of my projects are available at [https://mrinmoy3009.vercel.app/](https://mrinmoy3009.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.mrinmoy.space/](https://mrinmoy3009.vercel.app/)
 
 - 💬 Ask me about **Next.js, React.js, Tailwind CSS and Typescript**
 
 - 📫 How to reach me **dev.work.gzie@gmail.com**
 
-- 📄 Know about my experiences [https://mrinmoy3009.vercel.app/MrinmoySaikia_Resume.pdf](https://mrinmoy3009.vercel.app/MrinmoySaikia_Resume.pdf)
+- 📄 Know about my experiences [https://www.mrinmoy.space/MrinmoySaikia_Resume.pdf](https://www.mrinmoy.space/MrinmoySaikia_Resume.pdf)
 
 - ⚡ Fun fact **I think I am Funny**
 
